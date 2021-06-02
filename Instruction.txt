@@ -1,0 +1,25 @@
+
+Introduction :
+
+The main scope of this project is to measure the temperature of a closed
+environment lets say we want to measure the temperature of a room.
+
+Basically a range is fixed that is,the minimum and maximum temerature values are fixed
+and if the measured vaule is not in this range then the system alarms and sends a notification 
+to the users device through SMS, email, telegram etc.
+
+------Components required to work the project------
+
+1.Bolt WiFi Module(microcontroller)	
+2.LED (generic)	
+3.Buzzer-to alarm the area	
+4.Jumper wires (generic)		
+5.LM35-temperature sensor	
+6.Breadboard (generic)
+
+
+------To do so you have to register at a platform called Twillio
+   this will help us to get the notification on the device.
+Register --> confirm mobile number --> setup required function to carry-out --> Configure the file with the requireds private fields
+
+
