@@ -1,4 +1,4 @@
-# Temperature_Capstone_Project
+# Temperature_Capstone_Project By ** Mayank Pathak **
 
 ## Introduction :
 
@@ -198,11 +198,12 @@ plotChart('time_stamp','analog');
 
 ```
 ## Resutled Part of the Project is shown as Images.
-1. Screenshot of Notification received on the connected-device.
+<ol>
+<li>Screenshot of Notification received on the connected-device.</li>
 
 ![result_1](Images/result_1.jpg)
 
-2. Prediction of the future Instance is shown in below Provided Image.
+<li>Prediction of the future Instance is shown in below Provided Image.</li></ol>
 
 ![result_3](Images/result_3.jpg)
 
@@ -217,4 +218,6 @@ You can download the paper and view it by [clicking here🔗🔗](https://www.ij
 ### The project work is mainly to calculate the temperature of a closed environment and sends notification to the connected device through SMS, Mail, Telegram etc. only if the temperature of the region varies i.e., either the temperature increases(⬆) or the temperature decreases(⬇).
 
 ## If you like the Project and Repository then please **Drop a Star🌟**
+
+
 
