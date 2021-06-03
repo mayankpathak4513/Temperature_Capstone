@@ -1,4 +1,4 @@
-# Temperature_Capstone
+# Temperature_Capstone_Project
 
 Paper work is availabe at [The IJEAT Journal](http://www.ijeat.org/download/volume-9-issue-2/)
 
