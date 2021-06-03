@@ -26,6 +26,8 @@ ____________________________________
 To do so you have to register at a platform called **Twillio** this will help us to get the notification on the device.
 **Register --> confirm mobile number --> setup required function to carry-out --> Configure the file with the requireds private fields**
 
+![Setup_image](Images/Setup_image.jpg)
+
 ____________________________________
 
 ## Codes to implement the system
@@ -195,9 +197,24 @@ setCrosshair(true);
 plotChart('time_stamp','analog');
 
 ```
+## Resutled Part of the Project is shown as Images.
+1. Screenshot of Notification received on the connected-device.
+
+![result_1](Images/result_1.jpg)
+
+2. Prediction of the future Instance is shown in below Provided Image.
+
+![result_3](Images/result_3.jpg)
+
+![result_4](Images/result_4.jpg)
+
+_________________________________________
+
 Paper work is availabe at [The IJEAT Journal](http://www.ijeat.org/download/volume-9-issue-2/)
 
 You can download the paper and view it by [clicking here🔗🔗](https://www.ijeat.org/wp-content/uploads/papers/v9i2/B2507129219.pdf)
 
 ### The project work is mainly to calculate the temperature of a closed environment and sends notification to the connected device through SMS, Mail, Telegram etc. only if the temperature of the region varies i.e., either the temperature increases(⬆) or the temperature decreases(⬇).
+
+## If you like the Project and Repository then please **Drop a Star🌟**
 
