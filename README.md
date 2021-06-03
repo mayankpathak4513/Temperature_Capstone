@@ -1,4 +1,4 @@
-# Temperature_Capstone_Project By ** Mayank Pathak **
+# Temperature_Capstone_Project By **Mayank Pathak**
 
 ## Introduction :
 
