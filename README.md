@@ -200,6 +200,7 @@ plotChart('time_stamp','analog');
 ## Resutled Part of the Project is shown as Images.
 <ol>
 <li>Screenshot of Notification received on the connected-device.</li>
+	
 
 ![result_1](Images/result_1.jpg)
 
